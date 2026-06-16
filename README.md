@@ -25,6 +25,8 @@ runtime dependencies — and is meant to be embedded into aispot.hpilab.net.
        https://aaron-chen-angus.github.io/aispot/monitor/
        https://aaron-chen-angus.github.io/aispot/coach/
        https://aaron-chen-angus.github.io/aispot/evaluate/
+       https://aaron-chen-angus.github.io/aispot/video/
+
        
 ## Embed a module in the website (e.g. in KIMI)
     <iframe src="https://USERNAME.github.io/aispot/hero/"
