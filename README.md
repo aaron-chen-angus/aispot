@@ -20,10 +20,12 @@ runtime dependencies — and is meant to be embedded into aispot.hpilab.net.
 3. Repo → Settings → Pages → Build and deployment → Source = "Deploy from a
    branch", Branch = **main**, folder = **/ (root)**. Save.
 4. After ~1 minute the modules are live at:
-       https://USERNAME.github.io/aispot/
-       https://USERNAME.github.io/aispot/hero/
-       https://USERNAME.github.io/aispot/monitor/   (etc.)
-
+       https://aaron-chen-angus.github.io/aispot/
+       https://aaron-chen-angus.github.io/aispot/hero/
+       https://aaron-chen-angus.github.io/aispot/monitor/
+       https://aaron-chen-angus.github.io/aispot/coach/
+       https://aaron-chen-angus.github.io/aispot/evaluate/
+       
 ## Embed a module in the website (e.g. in KIMI)
     <iframe src="https://USERNAME.github.io/aispot/hero/"
             style="width:100%;aspect-ratio:16/9;border:0;display:block"
